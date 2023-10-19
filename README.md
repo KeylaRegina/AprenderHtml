@@ -1,5 +1,4 @@
-# Projeto Restaurante
-meus primeiros passos com html-css, criando um pequeno projeto!!
+# Primeiros passos no git
 
 #Passo a passo para fazer push
 
