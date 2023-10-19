@@ -33,3 +33,10 @@ meus primeiros passos com html-css, criando um pequeno projeto!!
     Serve para mandar as alterações para o repositorio remoto do git
 
     #exemplo= git push origin TROCAR_PELO_NOME_DA_SUA_BRANCH
+
+
+#Git checkout
+
+    Serve para mudar de branch
+
+    #exemplo= git checkout NOME_DA_BRANCH
