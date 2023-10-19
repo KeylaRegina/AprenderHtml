@@ -1,0 +1,59 @@
+/* formatar atraves da tag*/
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: darkgoldenrod;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+/*formatar atraves da tag
+img{
+    width: 150px;
+    border-radius: 10px;
+
+}
+*/
+/*formatar atraves da classe*/
+.foto{
+    width: 150px;
+    border-radius: 10px;
+}
+
+.logotipo{
+    width: 20px;
+    border-radius: 10px;
+
+}
+
+/*formatar atraves do id*/
+
+#btn-buscar{
+    background-color: aqua;
+}
+
+/* btn para a classe padrao dos botoes*/
+
+.btn{
+    font-size: 12px;
+    font-family: 'Lucida Sans';
+    border-radius: 10px;
+    border: 0px;
+    height: 25px;
+    min-width: 60px;
+}
+
+/* mudar a cor dos botoes */
+.btn-yellow:hover{
+    background-color: khaki;
+    color: darkred;
+    cursor: pointer;
+}
+
+.btn-green:hover{
+    background-color: darkseagreen;
+    color: honeydew;
+    cursor: pointer;
+}
