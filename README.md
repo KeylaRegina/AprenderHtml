@@ -40,3 +40,9 @@ meus primeiros passos com html-css, criando um pequeno projeto!!
     Serve para mudar de branch
 
     #exemplo= git checkout NOME_DA_BRANCH
+
+#Git clone
+
+    serve para baixar repositorio remoto para maquina local
+
+    #exemplo= git clone COPIAR_URL_DO_REPOSITORIO
